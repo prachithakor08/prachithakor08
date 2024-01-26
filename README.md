@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prachithakor08
 - 👀 I’m passionate about programming languages 
 - 🌱 I’m currently learning javascript frameworks and tableu
-- 📫 reach which me through thakorprachi08@gmail.com
+- 📫 you can reach me through thakorprachi08@gmail.com
 - 😄 Pronouns: she/her
   
 
