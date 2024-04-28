@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @prachithakor08
 - 👀 I’m passionate about programming languages 
-- 🌱 I’m currently learning javascript frameworks and tableu
+- 🌱 I'm familier with like c,c++,java,javascript,html,css,SQL,
+- database management,data structures,algorithms,php and many more. 
 - 📫 you can reach me through thakorprachi08@gmail.com
 - 😄 Pronouns: she/her
   
