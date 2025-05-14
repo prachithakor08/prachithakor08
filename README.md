@@ -10,44 +10,59 @@ I’m passionate about **problem-solving**, full-stack development, and leveragi
 
 ## 💼 Work Experience
 
-| 🏢 Company/Org                           | 💼 Role                              | ⏰ Duration                 |
+|  Company/Org                           |  Role                              |  Duration                 |
 |-----------------------------------------|--------------------------------------|----------------------------|
-| Kasnet Technologies Pvt. Ltd.           | Cloud & Power BI Intern              | Dec 2023 – Feb 2024        |
-| Passion Infortech Pvt. Ltd.             | AI/ML Intern                         | Jan 2024 – Mar 2024        |
-| ACM Student Chapter (College)           | Vice Chair                           | Sept 2023 – Present        |
-| Mental Health Chatbot Project (Self)    | Full-Stack Developer                 | Nov 2023 – Present         |
+| Kasnet Technologies Pvt. Ltd.           | Cloud & Power BI Intern              | Jan 2025 – Feb 2025        |            
+| ACM-W Student Chapter (BVCOEW)           | Vice Chair                           | Sept 2023 – Present        |
+|Bharati Vidyapeeth's College of Engineering<br>for Women,Pune | ProjectXpo-event Coordinator | Mar 2025-Apr 2025 |
+
 
 ---
 
 ## 🔧 Languages, Tools, and Technologies 🚀
 
 ### 🖥️ Programming Languages  
-C • C++ • Java • JavaScript • Python • PHP  
+• C<br>
+• C++<br>
+• Java <br>
+• JavaScript<br> 
+• Python  <br>
 
 ### 🌐 Frontend Development  
-HTML • CSS • React.js • EJS • Bootstrap  
+• HTML <br>
+• CSS <br>
+• React.js<br> 
+• EJS <br>
+• Bootstrap<br>
+• Angular<br>
+• JQuery<br>
 
 ### 🎨 Design & UI  
-Figma • Canva • Font Awesome  
+• Figma • Canva • Font Awesome  
 
 ### 🗄️ Database Technologies  
-MongoDB • MySQL • SQL  
+• MongoDB <br>
+• MySQL<br>
+• SQL  
 
 ### 🔗 Version Control  
 Git • GitHub  
+
+### 🌐 Other 
+• PowerBI<br>
+• Machine Learning<br>
+• Artificial Intelligence<br>
 
 ---
 
 ## 📜 Certifications
 
-- ✅ **Oracle APEX Certified Developer**  
-- ✅ **Microsoft Certified: Azure Fundamentals (AZ-900)**  
+- ✅ **Oracle : Oracle APEX Cloud Developer Certified Professional**  
+- ✅ **Microsoft : Microsoft Azure-900 Certification**  
 - 🎓 **Infosys Springboard:**  
   - Data Structures Using Java  
   - Database Management Systems – Part 1 & 2  
-  - Software Engineering  
-  - Agile Software Development  
-  - Basics of Linux  
+  - Software Engineering & Agile Software Development  
   - Linux for Beginners  
 
 ---
@@ -56,7 +71,6 @@ Git • GitHub
 
 | 🏢 Company                     | 💼 Role                    |
 |-------------------------------|----------------------------|
-| Flipkart Grid 6.0             | Software Development Track |
 | Accenture                     | Data Analytics & Viz       |
 | JP Morgan Chase & Co. (Forage)| Software Engineering       |
 
@@ -78,4 +92,5 @@ Git • GitHub
 ## 📫 How to Reach Me
 - ✉️ Email: thakorprachi08@gmail.com  
 - 🔗 LinkedIn: [prachi-thakor-64b42a228](https://www.linkedin.com/in/prachi-thakor-64b42a228/)
+-  Portfolio:
 
