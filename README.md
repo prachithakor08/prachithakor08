@@ -1,10 +1,12 @@
 # 👋 About Me  
-I am a junior undergraduate **Information Technology student at Bharati Vidyapeeth's College of Engineering for Women, Pune.**  
-I love working with new technologies and aim to stay as adaptable as possible.  
-💡 *“We can do anything, Believe it!”*  
+I am a junior undergraduate Information Technology student at Bharati Vidyapeeth's College of Engineering for Women, Pune.
+I love working with new technologies and aim to stay as adaptable as possible.
+💡 “We can do anything, Believe it!”
 
-I’m passionate about **problem-solving**, full-stack development, and leveraging **AI/ML** to build impactful solutions.  
+I’m passionate about problem-solving, full-stack development, and leveraging AI/ML to build impactful solutions.
 💬 Feel free to ask me anything related to Full-Stack, DSA, Databases, or Cloud Computing!
+
+📊 You can also check out my <a href="https://codolio.com/profile/prachi.thakor__">Codolio Profile Link</a> — a summary of all my solved questions from various competitive programming platforms.
 
 ---
 
