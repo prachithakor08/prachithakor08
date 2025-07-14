@@ -94,7 +94,7 @@ Git • GitHub
 ## 📫 How to Reach Me
 - ✉️ Email: thakorprachi08@gmail.com  
 - 🔗 LinkedIn: [prachi-thakor-64b42a228](https://www.linkedin.com/in/prachi-thakor-64b42a228/)
--  Portfolio: [[https://portfolio-908wg4l57-prachi-thakors-projects.vercel.app/](https://personal-portfolio-beta-eight-68.vercel.app/)]
+-  Portfolio: [[My Personal Profile](https://personal-portfolio-beta-eight-68.vercel.app/)]
 -  LEETCODE: [[See My Leetcode Profile](https://leetcode.com/u/Prachithakor008/)]
 -  GEEKSFORGEEKS[[See My gfg profile](https://www.geeksforgeeks.org/user/thakorprachi08/)]
 
