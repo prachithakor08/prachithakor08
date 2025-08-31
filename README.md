@@ -74,7 +74,6 @@ Git • GitHub
 | 🏢 Company                     | 💼 Role                    |
 |-------------------------------|----------------------------|
 | Accenture                     | Data Analytics & Viz       |
-| JP Morgan Chase & Co. (Forage)| Software Engineering       |
 
 ---
 
