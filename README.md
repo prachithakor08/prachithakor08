@@ -50,6 +50,10 @@ I’m passionate about problem-solving, full-stack development, and leveraging A
 ### 🔗 Version Control  
 Git • GitHub  
 
+##Cloud Computing 
+Microsoft Azure
+Amazon Web Services 
+
 ### 🌐 Other 
 • PowerBI<br>
 • Machine Learning<br>
