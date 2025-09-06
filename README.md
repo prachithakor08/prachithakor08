@@ -18,6 +18,7 @@ I’m passionate about problem-solving, full-stack development, and leveraging A
 | Kasnet Technologies Pvt. Ltd.           | Cloud & Power BI Intern              | Jan 2025 – Feb 2025        |            
 | ACM-W Student Chapter (BVCOEW)          | Vice Chair                           | Sept 2024 – Present        |
 |Bharati Vidyapeeth's College of Engineering<br>for Women,Pune | ProjectXpo-event Coordinator | Mar 2025-Apr 2025 |
+|IT Student's Association ,BVCOEW,Pune | Core member |Sept 2024-present|
 
 
 ---
