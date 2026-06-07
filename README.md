@@ -12,8 +12,9 @@ I’m passionate about problem-solving, full-stack development, and leveraging A
 
 ## 💼 Work Experience
 
-|  Company/Org                           |  Role                              |  Duration                 |
+|  Company/Org                            |  Role                              |  Duration                 |
 |-----------------------------------------|--------------------------------------|----------------------------|
+|  Central water and Power Research Station,Pune | Research & Development Intern        | June 2025 - May 2026       |
 |  GirlScript Summer of Code (GSSoC'25)   | Open Source Contributor              | Jul 2025 - Sept 2025       |
 | Kasnet Technologies Pvt. Ltd.           | Cloud & Power BI Intern              | Jan 2025 – Feb 2025        |            
 | ACM-W Student Chapter (BVCOEW)          | Vice Chair                           | Sept 2024 – Present        |
