@@ -7,7 +7,7 @@ I'm passionate about software development, problem-solving, and building impactf
 
 🚀 I believe in building solutions that create real-world impact through clean code, continuous learning, and collaboration.
 
-💡 *"We can do anything. Believe it!"*
+💡 *"As long as dice is rolling your six will come!"*
 
 💬 Feel free to connect or reach out to discuss Software Development, Full-Stack Development, DSA, AI/ML, Databases, or Cloud Computing!
 
